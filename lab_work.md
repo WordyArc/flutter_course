@@ -40,17 +40,19 @@ ___
     categoryId: string - ссылка на категорию, к которой принадлежит задача;
 
 #### Список категорий задач
-![simulator_screenshot_8CA21849-E3DB-4569-B199-04465B77FC19.png](assets%2Fcategories%2Fsimulator_screenshot_8CA21849-E3DB-4569-B199-04465B77FC19.png)
-![simulator_screenshot_955F5A6A-7DE1-4039-A825-A80983BA6F42.png](assets%2Fcategories%2Fsimulator_screenshot_955F5A6A-7DE1-4039-A825-A80983BA6F42.png)
-![simulator_screenshot_D18A7D69-83D7-4ED6-A3A4-4EA31B5D93E9.png](assets%2Fcategories%2Fsimulator_screenshot_D18A7D69-83D7-4ED6-A3A4-4EA31B5D93E9.png)
-![simulator_screenshot_1343577B-4F35-45E0-9747-77A8C987C118.png](assets%2Fcategories%2Fsimulator_screenshot_1343577B-4F35-45E0-9747-77A8C987C118.png)
-![simulator_screenshot_C5F39C72-7A3C-41CB-B5E0-1EE9CB69444A.png](assets%2Fcategories%2Fsimulator_screenshot_C5F39C72-7A3C-41CB-B5E0-1EE9CB69444A.png)
+
+<img src='./assets/categories/simulator_screenshot_8CA21849-E3DB-4569-B199-04465B77FC19.png' width="300">
+<img src='./assets/categories/simulator_screenshot_955F5A6A-7DE1-4039-A825-A80983BA6F42.png' width="300">
+<img src='./assets/categories/simulator_screenshot_D18A7D69-83D7-4ED6-A3A4-4EA31B5D93E9.png' width="300">
+<img src='./assets/categories/simulator_screenshot_1343577B-4F35-45E0-9747-77A8C987C118.png' width="300">
+<img src='./assets/categories/simulator_screenshot_C5F39C72-7A3C-41CB-B5E0-1EE9CB69444A.png' width="300">
 
 #### Список задач
-![simulator_screenshot_1AA41746-55E6-4D40-8897-9B971A1291E6.png](assets%2Ftasks%2Fsimulator_screenshot_1AA41746-55E6-4D40-8897-9B971A1291E6.png)
-![simulator_screenshot_955E006B-2183-4FC3-A119-464BDC181F3C.png](assets%2Ftasks%2Fsimulator_screenshot_955E006B-2183-4FC3-A119-464BDC181F3C.png)
-![simulator_screenshot_9D40DC2C-9B92-4FC8-8AE9-10B27E1CB9E5.png](assets%2Ftasks%2Fsimulator_screenshot_9D40DC2C-9B92-4FC8-8AE9-10B27E1CB9E5.png)
-![simulator_screenshot_CC7562EE-DA79-404D-B186-C1959BDCC8E9.png](assets%2Ftasks%2Fsimulator_screenshot_CC7562EE-DA79-404D-B186-C1959BDCC8E9.png)
+<img src='./assets/tasks/simulator_screenshot_1AA41746-55E6-4D40-8897-9B971A1291E6.png' width="300">
+<img src='./assets/tasks/simulator_screenshot_955E006B-2183-4FC3-A119-464BDC181F3C.png' width="300">
+<img src='./assets/tasks/simulator_screenshot_9D40DC2C-9B92-4FC8-8AE9-10B27E1CB9E5.png' width="300">
+<img src='./assets/tasks/simulator_screenshot_CC7562EE-DA79-404D-B186-C1959BDCC8E9.png' width="300">
+
 
 ## Задание 2. Верстка экрана задачи
 
@@ -59,8 +61,9 @@ ___
 * сверстать экран задачи, реализовать функционал удаления, редактирования заголовка и описания задачи.
 
 #### Экран задачи
-![simulator_screenshot_50D595A4-20C7-461A-83FB-CB4D5469EA14.png](assets%2Ftask%2Fsimulator_screenshot_50D595A4-20C7-461A-83FB-CB4D5469EA14.png)
-![simulator_screenshot_B3615767-9923-4B74-9A55-ECFE25913AC3.png](assets%2Ftask%2Fsimulator_screenshot_B3615767-9923-4B74-9A55-ECFE25913AC3.png)
+<img src='./assets/task/simulator_screenshot_50D595A4-20C7-461A-83FB-CB4D5469EA14.png' width="300">
+<img src='./assets/task/simulator_screenshot_B3615767-9923-4B74-9A55-ECFE25913AC3.png' width="300">
+
 
 ## Задание 3. Архитектура
 
