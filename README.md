@@ -5,4 +5,4 @@
 
 * [План курса](course_program.md)
 * [Задание на семестр](lab_work.md)
-* [Рейтинг (Coming soon...)]()
+* [Рейтинг](https://docs.google.com/spreadsheets/d/1evUYGRvLUp71jYVVYHG_fDrJd15ui1xWf0Oig8brcks/edit#gid=1906397314)
